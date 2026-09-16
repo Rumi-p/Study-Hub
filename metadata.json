@@ -1,0 +1,6 @@
+{
+  "name": "Student Study Planner & Management",
+  "description": "An all-in-one student study planner, course manager, Pomodoro focus timer, assignment tracker, and AI academic tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
